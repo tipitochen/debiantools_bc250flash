@@ -18,3 +18,5 @@ Que hicieron posible poder actualizar la bios de la placa desde una unidad USB
 Guía para actualizar la BIOS de la placa BC-250.
 
 📄 [Ver pasos completos en PDF](Actualizar%20Bios%20BC%20250/Pasos%20a%20seguir%20Flash%20Bc250.pdf)
+## 📂 Archivos relacionados
+- [Carpeta BIOS EFI](Actualizar%20Bios%20BC%20250/BIOS%20EFI)
