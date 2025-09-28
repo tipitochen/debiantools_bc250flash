@@ -8,7 +8,7 @@ Agradecimiento a estos dos proyectos:
 
 Que hicieron posible poder actualizar la bios de la placa desde una unidad USB
 
-# Debian Tool Nikita Script
+# Debian Tool Nikita Script (actualizador de Drivers mesa para bc250)
 ⚙️ [Script Debian Tool Nikita](Debian%20tool%20Nikita.sh)
 
 
