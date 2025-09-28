@@ -3,10 +3,13 @@ en este repositorio nos encontamos con los archivos para flashear la bios de la 
 # Debian Tool Nikita Script
 Agradecimiento a estos dos proyectos:
 
-https://github.com/kenavru/BC-250
-https://gitlab.com/TuxThePenguin0/bc250-bios/
+#https://github.com/kenavru/BC-250
+#https://gitlab.com/TuxThePenguin0/bc250-bios/
+
 Que hicieron posible poder actualizar la bios de la placa desde una unidad USB
-qu
+
+#Herramienta Debian tool nikita
+
 ⚙️ [Script Debian Tool Nikita](Debian%20tool%20Nikita.sh)
 
 
