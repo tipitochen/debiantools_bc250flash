@@ -13,7 +13,7 @@ Que hicieron posible poder actualizar la bios de la placa desde una unidad USB
 
 
 # Parche bc250 (sugerencias comunidad [ git-](https://github.com/mothenjoyer69/bc250-documentation))
-⚙️ [Script Parche bc250](Parche%bc%250.sh)
+⚙️ [Script Parche bc250](Parche%20bc%20250.sh)
 
  este parche aplica lo sugerido por la comunidad:
  -agrega RADV_DEBUG=nocompute en /etc/environment para resolver problemas de vulkan.
