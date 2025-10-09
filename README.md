@@ -12,7 +12,14 @@ Que hicieron posible poder actualizar la bios de la placa desde una unidad USB
 ⚙️ [Script Debian Tool Nikita](Debian%20tool%20Nikita.sh)
 
 
+# Parche bc250 (sugerencias comunidad [ git-](https://github.com/mothenjoyer69/bc250-documentation))
+⚙️ [Script Parche bc250](Parche%bc%250.sh)
 
+ este parche aplica lo sugerido por la comunidad:
+ -agrega RADV_DEBUG=nocompute en /etc/environment para resolver problemas de vulkan.
+- Agrega ttm.pages_limit=3959290 y ttm.page_pool_size=3959290 como una opcion del kernel para tener accesio a mas de 8gb de memoria compartida
+- Carga los drives  the nct6683 drive para activar los sensores en el bash del usuario 
+ 
 # Bios Flash BC-250
 
 Guía para actualizar la BIOS de la placa BC-250.
