@@ -17,7 +17,8 @@ gracias a mothenjoyer69 y todos los involucrados en este proyecto.
 ⚙️ [Script Parche bc250](Parche%20bc%20250.sh)
 
  este parche aplica lo sugerido por la comunidad:
- -agrega RADV_DEBUG=nocompute en /etc/environment para resolver problemas de vulkan.
+ 
+- agrega RADV_DEBUG=nocompute en /etc/environment para resolver problemas de vulkan.
 - Agrega ttm.pages_limit=3959290 y ttm.page_pool_size=3959290 como una opcion del kernel para tener accesio a mas de 8gb de memoria compartida
 - Carga los drives  the nct6683 drive para activar los sensores en el bash del usuario 
  
