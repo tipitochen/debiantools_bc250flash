@@ -12,7 +12,7 @@ Que hicieron posible poder actualizar la bios de la placa desde una unidad USB
 ⚙️ [Script Debian Tool Nikita](Debian%20tool%20Nikita.sh)
 
 
-# Parche bc250 (sugerencias comunidad ir al git--->[ git-](https://github.com/mothenjoyer69/bc250-documentation))
+# Parche bc250 Debian (sugerencias comunidad ir al git--->[ git-](https://github.com/mothenjoyer69/bc250-documentation))
 gracias a mothenjoyer69 y todos los involucrados en este proyecto.
 ⚙️ [Script Parche bc250](Parche%20bc%20250.sh)
 
